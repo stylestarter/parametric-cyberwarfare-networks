@@ -99,7 +99,6 @@ Assessment of whether network connectivity can outweigh intrinsic target value i
 
 - `README.md`
   - Repository documentation and thesis overview.
-```
 
 ---
 
@@ -110,3 +109,4 @@ BSc Management and Computer Science
 LUISS Guido Carli University
 
 Supervisor: **Prof. Xavier Venel**
+```
